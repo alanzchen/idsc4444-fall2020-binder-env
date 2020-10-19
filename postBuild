@@ -1,2 +1,3 @@
 pip install nbgitpuller
 jupyter serverextension enable --py nbgitpuller --sys-prefix
+jupyter labextension install @jupyterlab/toc @krassowski/jupyterlab-lsp
