@@ -5,3 +5,4 @@ dependencies:
   - r-tidyverse
   - python-language-server
   - r-languageserver
+  - jupyter-lsp
