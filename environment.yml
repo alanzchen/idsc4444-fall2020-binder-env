@@ -6,3 +6,6 @@ dependencies:
   - python-language-server
   - r-languageserver
   - jupyter-lsp
+  - gxx_linux-64
+  - gcc_linux-64
+  - r-essentials
