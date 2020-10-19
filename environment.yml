@@ -3,3 +3,5 @@ channels:
 dependencies:
   - r-base=4.0.3
   - r-tidyverse
+  - python-language-server
+  - r-languageserver
