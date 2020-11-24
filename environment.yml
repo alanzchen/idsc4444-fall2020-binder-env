@@ -10,3 +10,7 @@ dependencies:
   - gcc_linux-64
   - r-essentials
   - r-factoextra
+  - r-caret
+  - r-e1071
+  - r-rpart
+  - rpart.plot
