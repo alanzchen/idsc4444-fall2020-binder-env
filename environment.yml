@@ -13,4 +13,4 @@ dependencies:
   - r-caret
   - r-e1071
   - r-rpart
-  - rpart.plot
+  - r-rpart.plot
