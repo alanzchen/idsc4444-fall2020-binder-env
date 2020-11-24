@@ -9,3 +9,4 @@ dependencies:
   - gxx_linux-64
   - gcc_linux-64
   - r-essentials
+  - r-factoextra
