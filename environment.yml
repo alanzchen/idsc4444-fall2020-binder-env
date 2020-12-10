@@ -2,15 +2,17 @@ channels:
   - conda-forge
 dependencies:
   - r-base=4.0.3
-  - r-tidyverse
   - python-language-server
   - r-languageserver
   - jupyter-lsp
   - gxx_linux-64
   - gcc_linux-64
   - r-essentials
+  - r-tidyverse
   - r-factoextra
   - r-caret
   - r-e1071
   - r-rpart
   - r-rpart.plot
+  - r-labelvector
+  - r-gridExtra
