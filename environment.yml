@@ -14,5 +14,4 @@ dependencies:
   - r-e1071
   - r-rpart
   - r-rpart.plot
-  - r-labelvector
   - r-gridExtra
